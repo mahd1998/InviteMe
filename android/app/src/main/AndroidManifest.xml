@@ -6,7 +6,7 @@
         android:label="InviteMe"
         android:icon="@mipmap/inviteme">
         <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="AIzaSyDn7kXzgrNu5_vOu2gVaNLa6xNJhmpGPtY"/>
+                   android:value="*********************"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
