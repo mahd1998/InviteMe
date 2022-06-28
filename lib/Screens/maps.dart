@@ -14,7 +14,7 @@ class MapSample extends StatefulWidget {
 }
 
 typedef MarkerUpdateAction = Marker Function(Marker marker);
-const kGoogleApiKey = 'AIzaSyAFEoYzBpioa-5DFY6Jgfw6y6jIEEo-b3o';
+const kGoogleApiKey = '***************************';
 final homeScaffoldKey = GlobalKey<ScaffoldState>();
 
 class MapSampleState extends State<MapSample> {
